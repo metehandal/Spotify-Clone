@@ -1,0 +1,7 @@
+{
+  "name": "mySpotify",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
